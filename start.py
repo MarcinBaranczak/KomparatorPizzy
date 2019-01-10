@@ -1,5 +1,6 @@
 import math
 
+
 # ----- pobiera ilość wykonań -----
 def start():
     ilosc = int(input("Podaj ilość pizz do porównania: "))
@@ -16,7 +17,7 @@ def start():
 
 # ----- oblicza i wyświetla dane -----
 def obliczPizze(r):
-    print("pole: ", obliczPole(r))
+    print("pole (", 2 * r, "\bcm ):", obliczPole(r))
 
 
 # ----- pobiera dane pizzy -----
