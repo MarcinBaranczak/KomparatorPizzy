@@ -1,2 +1,2 @@
 # KomparatorPizzy
-Program do porównywania cen pizzy do wielości.  
+Program do porównywania wielkości pizzy bazujący na przekątnej.
